@@ -1,5 +1,5 @@
 # GNN-based Fake News Detection
-This repo includes the Pytorch-Geometric implementation of a series of Graph Neural Network (GNN) based fake news detection models.
+This includes the Pytorch-Geometric implementation of a series of Graph Neural Network (GNN) based fake news detection models.
 All [GNN models](#user-guide) are implemented and evaluated under the User Preference-aware Fake News Detection ([UPFD](https://arxiv.org/pdf/2104.12259.pdf)) framework.
 The fake news detection problem is instantiated as a graph classification task under the UPFD framework. 
 
