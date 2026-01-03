@@ -6,7 +6,18 @@ The fake news detection problem is instantiated as a graph classification task u
 
 The UPFD dataset and its example usage is also available at the PyTorch-Geometric official repo.
 
+The following figure shows the UPFD framework including the dataset construction details 
+You can refer to the [paper](https://arxiv.org/pdf/2005.00625.pdf) for more details about the dataset.
 
+<p align="center">
+    <br>
+    <a href="https://github.com/safe-graph/GNN-FakeNews">
+        <img src="https://github.com/safe-graph/GNN-FakeNews/blob/main/overview.png" width="1000"/>
+    </a>
+    <br>
+<p>
+
+  
 All GNN-based fake news detection models are under the `\gnn_model` directory.
 The implemented models are as follows:
 
